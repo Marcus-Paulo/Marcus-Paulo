@@ -1,5 +1,10 @@
+<div align="center">
+
 ### Olá! Eu sou o Marcus Paulo 👋
 
+</div>
+
+##
 
 - 🤓 Estudando JavaScript, HTML e CSS
 - 📚 Cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas
