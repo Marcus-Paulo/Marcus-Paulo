@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcus Paulo 👋
 
 
-- 🤓 Estudando, JavaScript, HTML e CSS
+- 🤓 Estudando JavaScript, HTML e CSS
 - 📚 Cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas
 - 🏫 Faculdade: Estácio de Sá
 - ⚡ Fun fact: Conheci minha esposa jogando vídeo-game
