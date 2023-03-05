@@ -7,7 +7,7 @@
 ##
 
 - 🤓 Estudando JavaScript, HTML e CSS
-- 📚 Cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas
+- 📚 Cursando o 3º Semestre de Análise e Desenvolvimento de Sistemas
 - 🏫 Faculdade: Estácio de Sá
 - ⚡ Fun fact: Conheci minha esposa jogando vídeo-game
 - 📞 contate-me no email: mp-oliver@hotmail.com
