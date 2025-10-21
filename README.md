@@ -1,36 +1,48 @@
-<div align="center">
+<h1 align="center">👋 Olá, eu sou Marcus Costa</h1>
 
-### Olá! Eu sou o Marcus Paulo 👋
+<p align="center">
+  💻 <strong>Analista de Testes de Software</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
+  Apaixonado por tecnologia, aprendizado constante e pela arte de encontrar (e resolver) bugs 🐞.
+</p>
 
-</div>
+---
 
-##
+### 🧠 Sobre mim
 
-- 🤓 Estudando JavaScript, HTML e CSS
-- 📚 Cursando o 3º Semestre de Análise e Desenvolvimento de Sistemas
-- 🏫 Faculdade: Estácio de Sá
-- ⚡ Fun fact: Conheci minha esposa jogando vídeo-game
-- 📞 contate-me no email: mp-oliver@hotmail.com
+- 🎯 Atuo com **testes manuais e automatizados**  
+- 🧩 Experiência com **Python**, **Selenium**, **Robot Framework**, **Pytest** e **Postman**  
+- 🔄 Busco sempre aprimorar meus conhecimentos em **automação**, **integração contínua** e **boas práticas ágeis (BDD/TDD)**  
+- 💬 Gosto de compartilhar conhecimento e aprender com a comunidade  
 
-<div>
-  <a href="https://github.com/Marcus-Paulo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Paulo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
+### ⚙️ Tecnologias e Ferramentas
 
-##
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-<div>
-  <a href="https://instagram.com/o.marcusoliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mp_oliver" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Marcus-Costa1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🌍 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcus-costa1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcus%20Costa-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mp-oliver.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 <div align="center">
   
