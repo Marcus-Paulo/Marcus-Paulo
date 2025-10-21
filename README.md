@@ -44,9 +44,11 @@
 ---
 
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Marcus-Paulo/Marcus-Paulo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+###
+
+<br clear="both">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/svhenrique/svhenrique/output/github-contribution-grid-snake.svg)
+
+###
  
