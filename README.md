@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Marcus Costa</h1>
+<h1 align="center">👋 Olá, eu sou Marcus Paulo</h1>
 
 <p align="center">
   💻 <strong>Analista de Testes de Software</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
