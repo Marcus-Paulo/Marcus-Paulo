@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 - 🎯 Atuo com **testes manuais e automatizados**  
-- 🧩 Aperfeiçoando **Python**, **Selenium**, **Robot Framework**, **Pytest** e **Postman**  
+- 🧩 Aperfeiçoando **Selenium**, **Robot Framework**, **Pytest** e **Postman**  
 - 🔄 Busco sempre aprimorar meus conhecimentos em **automação**, **integração contínua** e **boas práticas ágeis (BDD/TDD)**  
 - 💬 Gosto de compartilhar conhecimento e aprender com a comunidade  
 
