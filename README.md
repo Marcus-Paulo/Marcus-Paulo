@@ -44,11 +44,5 @@
 ---
 
 
-###
 
-<br clear="both">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/svhenrique/svhenrique/output/github-contribution-grid-snake.svg)
-
-###
  
