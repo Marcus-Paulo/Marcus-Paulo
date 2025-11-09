@@ -8,7 +8,7 @@
 
 <p align="center">
   💻 <strong>Analista de Testes de Software</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
-  Curioso por natureza, sempre em busca de aprender algo novo e tentar antecipar problemas antes que chegue em produção 🐞.
+  Curioso por natureza e sempre na busca de aprender algo novo 🐞.
 </p>
 
 ---
