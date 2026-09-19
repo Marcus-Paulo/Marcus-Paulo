@@ -7,7 +7,7 @@
 <h1 align="center">Eu sou o Marcus Paulo</h1>
 
 <p align="center">
-  💻 <strong>Analista de Testes de Software</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
+  💻 <strong>Analista de Testes Pleno</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
   Curioso por natureza e sempre na busca de aprender algo novo 🐞.
 </p>
 
@@ -16,7 +16,7 @@
 ### 🧠 Sobre mim
 
 - 🎯 Atuo com **testes manuais e automatizados**, **integração contínua** e **boas práticas ágeis** 
-- 🧩 Aperfeiçoando em **Selenium**, **Robot Framework** e **Postman**  
+- 🧩 Aperfeiçoando em **Selenium**, **Robot Framework**, **Playwright** e **Postman**  
 - 💬 Gosto de compartilhar conhecimento e aprender com a comunidade  
 
 ---
