@@ -8,7 +8,6 @@
 
 <p align="center">
   💻 <strong>Analista de Testes Pleno</strong> focado em <strong>qualidade, automação e melhoria contínua</strong>.<br>
-  Curioso por natureza e sempre na busca de aprender algo novo 🐞.
 </p>
 
 ---
